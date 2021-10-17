@@ -28,7 +28,8 @@ using SparseArrays
 using LightGraphs
 import PowerModels
 
-# A list of all the MATPOWER test cases
+# A list of all the MATPOWER test cases, available at
+# https://matpower.org
 Matpower_cases = [
     "data/case118.m",
     "data/case1354pegase.m",
