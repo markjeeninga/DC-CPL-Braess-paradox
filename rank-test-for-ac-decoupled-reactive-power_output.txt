@@ -1,0 +1,53 @@
+data/case118.m  passed the test.
+data/case1354pegase.m   passed the test.
+data/case13659pegase.m  failed the test.
+data/case14.m   passed the test.
+data/case141.m has no PV buses and was skipped.
+data/case145.m  failed the test.
+data/case18.m has no PV buses and was skipped.
+data/case1888rte.m      failed the test.
+data/case1951rte.m      failed the test.
+data/case22.m has no PV buses and was skipped.
+data/case2383wp.m       passed the test.
+data/case24_ieee_rts.m  passed the test.
+data/case2736sp.m       passed the test.
+data/case2737sop.m      passed the test.
+data/case2746wop.m      passed the test.
+data/case2746wp.m       passed the test.
+data/case2848rte.m      passed the test.
+data/case2868rte.m      passed the test.
+data/case2869pegase.m   passed the test.
+data/case30.m   passed the test.
+data/case300.m  passed the test.
+data/case3012wp.m       passed the test.
+data/case30pwl.m        passed the test.
+data/case30Q.m  passed the test.
+data/case3120sp.m       passed the test.
+data/case3375wp.m       passed the test.
+data/case33bw.m has no PV buses and was skipped.
+data/case39.m   passed the test.
+data/case4_dist.m       failed the test.
+data/case4gs.m  failed the test.
+data/case5.m    failed the test.
+data/case57.m   passed the test.
+data/case6468rte.m      passed the test.
+data/case6470rte.m      passed the test.
+data/case6495rte.m      passed the test.
+data/case6515rte.m      passed the test.
+data/case69.m has no PV buses and was skipped.
+data/case6ww.m  passed the test.
+data/case85.m has no PV buses and was skipped.
+data/case89pegase.m     failed the test.
+data/case9.m    passed the test.
+data/case9241pegase.m   passed the test.
+data/case9Q.m   passed the test.
+data/case9target.m      passed the test.
+data/case_ACTIVSg10k.m  passed the test.
+data/case_ACTIVSg200.m  failed the test.
+data/case_ACTIVSg2000.m failed the test.
+data/case_ACTIVSg25k.m  passed the test.
+data/case_ACTIVSg500.m  failed the test.
+data/case_ACTIVSg70k.m  passed the test.
+data/case_ieee30.m      passed the test.
+data/case_RTS_GMLC.m    passed the test.
+data/case_SyntheticUSA.m        passed the test.
