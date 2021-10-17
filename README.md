@@ -1,6 +1,6 @@
 # DC-CPL-Braess-paradox
 
-This code considers all test cases in MATPOWER 7.0.
+This code considers all test cases in MATPOWER 7.0, available at https://matpower.org.
 A DC power grid is derived from each test case by considering the decoupled reactive power flow.
 This means that we take the branch inductances in each case as the line resistances in the DC grid.
 In this analogy, PQ buses correspond to constant-power loads and PV buses correspond to voltages sources.
