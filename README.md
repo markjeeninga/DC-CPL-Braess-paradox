@@ -11,3 +11,5 @@ two nodes such that the Laplacian submatrix that describes the inductive connect
 neighboring PV buses has full column rank?
 If so, then any increase in the edges within this subgraph could violate the power flow feasibility for
 some choice of power demands at the loads, and hence Braess' paradox for power flow feasibilty can occur.
+
+See also https://doi.org/10.1016/j.sysconle.2022.105146.
